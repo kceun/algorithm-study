@@ -16,6 +16,7 @@ public class Fun10953 {
 		for (int i = 0; i < N; i++) {
 			String str = sc.next();
 			String[] sp = str.split(",");
+			
 			System.out.println(Integer.parseInt(sp[0])+Integer.parseInt(sp[1]));
 		}
 
