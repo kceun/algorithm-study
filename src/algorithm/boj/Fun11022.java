@@ -12,7 +12,7 @@ public class Fun11022 {
 
 		Scanner sc = new Scanner(System.in);
 
-		int N = sc.nextInt();
+		int N = sc.nextInt(); 
 		for (int i = 0; i < N; i++) {
 			int A = sc.nextInt();
 			int B= sc.nextInt();
