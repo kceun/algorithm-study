@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Fun2441 {
+public class Fun2442 {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		
